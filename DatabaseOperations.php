@@ -1,5 +1,4 @@
 <?php
-
 class DatabaseOperations 
 {
 	public $hostname='localhost';
